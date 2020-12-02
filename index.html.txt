@@ -1,0 +1,14 @@
+<html>
+<meta charset="utf-8">
+	<head>
+		<img src="comida.png" height="50%" width="100%"></>
+		<h1 align="center">DEU FOME</h1>
+
+	</head>
+
+
+	<body style="background-color:orange;"> 
+		<h2 align="center"> Receitas faceis para matar sua fome</h2>
+	
+	</body>
+</html>
